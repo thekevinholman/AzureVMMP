@@ -1,5 +1,4 @@
 # AzureVM MP 1.0.0.0
-
 ## [Download Here](https://github.com/thekevinholman/AzureVMMP/releases/download/1.0.0.0/AzureVMMP_1.0.0.0.zip)
 
 Azure VM Properties Management Pack
